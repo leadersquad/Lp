@@ -1,0 +1,6 @@
+token=NDk3MTc2Mjg2MzMxMDExMDcy.DtjZ3Q.nQ9OEG7nmgdBx49YtWMi5Ab-cx4
+owner=429640585683664897
+prefix= L
+game= Lplay
+stayinchannel=true
+songinstatus=true
